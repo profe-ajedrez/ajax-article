@@ -7,7 +7,7 @@ Debes tener creada una base de datos.
 Crea un Archivo nuevo haciendo clic en el icono del menú superior.
 Guárdalo como `databaseconnect.php`. Puedes reemplazar el nombre con lo que quieras, solo asegúrate de estar usando php como extensión.
 Haz doble clic para abrir el archivo y copia y pega las siguientes líneas de código en él. Cambia los primeros cuatro valores debajo de
-`<?php` con las credenciales que anotaste anteriormente.
+`<?php` con las credenciales correctas que usaste para crear la base de dato.
 
 ```php
 <?php
